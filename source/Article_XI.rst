@@ -1,3 +1,5 @@
+.. index:: parliamentary authority
+
 ======================================================
 ARTICLE XI.  PARLIAMENTARY AUTHORITY
 ======================================================

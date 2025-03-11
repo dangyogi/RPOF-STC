@@ -1,8 +1,13 @@
+.. index:: finance and revenues
+
 ======================================================
 ARTICLE X.  FINANCE AND REVENUES
 ======================================================
 
 .. role:: underline
+
+.. index::
+   pair: account signatures; bank account
 
 Section 1. :underline:`Account Signatures`.
 -----------------------------------------------
@@ -12,6 +17,10 @@ Assistant Treasurer, signing jointly, shall be the authorized signatures on the 
 State Committee. A copy of a resolution authorizing such account, certified to by the Secretary of
 the State Committee, shall be sufficient authority to any such bank or savings institution for the
 establishment of such account and for the authority of the above named officers to sign thereon.
+
+.. index::
+   single: committees; accounts, establishment
+   single: subcommittees; accounts, establishment
 
 Section 2. :underline:`Committees`.
 -----------------------------------------------

@@ -1,8 +1,14 @@
+.. index:: vacancies
+
 ======================================================
 ARTICLE V.  VACANCIES
 ======================================================
 
 .. role:: underline
+
+.. index::
+   single: State Committee Officers; vacancy, filling
+   single: vacancy; State Committee Officers
 
 Section 1. :underline:`State Committee Officers`.
 ------------------------------------------------------------
@@ -10,6 +16,10 @@ Section 1. :underline:`State Committee Officers`.
 Vacancies in the offices of the State Committee, other
 than the Chairman, shall be filled by the Executive Board until the next annual meeting of the State
 Committee at which annual meeting an election shall be held to fill such vacancy.
+
+.. index::
+   single: State Committee Members; vacancy, filling
+   single: vacancy; State Committee Members
 
 Section 2. :underline:`State Committee Members`.
 ------------------------------------------------------------
@@ -21,6 +31,12 @@ membership shall occur from a county where no County Executive Committee is orga
 a County Executive Committee be organized but refuse to elect a person to fill the vacancy, then,
 and in either event, the Executive Board shall fill the vacancy after giving sixty days notice to
 Chairman of the County Executive Committee if such a committee exists.
+
+.. _vacancies congressional district chairman:
+
+.. index::
+   single: Congressional District Chairman; vacancy, filling
+   single: vacancy; Congressional District Chairman
 
 Section 3. :underline:`Congressional District Chairman`.
 ------------------------------------------------------------

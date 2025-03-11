@@ -1,8 +1,13 @@
+.. index:: membership; executive board
+
 ======================================================
 ARTICLE VI.  MEMBERSHIP - EXECUTIVE BOARD
 ======================================================
 
 .. role:: underline
+
+.. index::
+   pair: members; executive board
 
 Section 1. :underline:`Members`.
 ---------------------------------------------------------------
@@ -15,6 +20,9 @@ Committeewoman from Florida, Chairman of the County Chairman’s Caucus, Chairma
 State Committeemen and Committeewomen’s Caucus, Chairman of the Appointee Caucus, and
 the immediate past State Chairman of the Party, if said person remains in good standing.
 
+.. index::
+   pair: Congressional District; chairman
+
 Section 2. :underline:`Congressional District Chairman`.
 ---------------------------------------------------------------
 
@@ -24,6 +32,10 @@ the State Committee and select a State Committeeman, State Committeewoman, or Ch
 the candidate for Congressional District Chairman from their Congressional District. The
 candidate thus selected shall be the caucus nominee for election of the Congressional District
 Chairman from that Congressional District by the State Committee.
+
+.. index::
+   single: Congressional District Chairman; must reside within Congressional District
+   pair: Congressional District; alternate chairman
 
 Wherever possible, a candidate must reside within the boundaries of the Congressional District
 represented as Congressional District Chairman. If no state committee member resides within a
@@ -41,10 +53,19 @@ Committeewoman and County Chairman from each county within the congressional dis
 
 A Congressional District Chairman’s Alternate who is not a member of the State Committee may
 assume the responsibilities of the Congressional District Chairman for a time not to exceed the
-time set forth under Vacancies in Article V.
+time set forth under `Vacancies in Article V`_.
+
+.. _Vacancies in Article V: Article_V.html#vacancies-congressional-district-chairman
+
+.. index::
+   single: Congressional District Chairman; must be member of State Committee
 
 Except as provided above, the Congressional District Chairman must be a member of the State
 Committee.
+
+.. index::
+   pair: executive board; authority
+   pair: executive board; tribunal
 
 Section 3. :underline:`Authority`.
 ---------------------------------------------------------------
@@ -52,7 +73,7 @@ Section 3. :underline:`Authority`.
 The Executive Board is vested with all rights of the State Committee
 and is authorized to act fully and completely in its stead and on its behalf in all matters that may
 be brought before it between meetings of the State Committee. Furthermore, the Executive Board
-shall be considered a competent tribunal as specified in Section 103.131(7), Florida Statutes, for
+shall be considered a competent tribunal as specified in `Section 103.131(7), Florida Statutes`_, for
 the express purpose of considering any member or officer for removal by declaring void his or her
 election or appointment. The Executive Board is fully empowered to take any actions appropriate
 for censure or discipline of any officer or member for cause, including removal from office or
@@ -60,6 +81,13 @@ expulsion from the party, in accordance with the procedures set forth in Robert�
 for a necessary finding of cause and determination of accountability while in session as a
 competent tribunal. The Executive Board shall keep minutes of its proceedings and such minutes
 shall be available to every member of the State Committee.
+
+.. _Section 103.131(7), Florida Statutes: https://www.flsenate.gov/Laws/Statutes/2024/103.131#:~:text=(7)%e2%80%83The%20decision%20of%20a%20competent%20tribunal%20declaring%20void%20his%20or%20her%20election%20or%20appointment,%20and%20his%20or%20her%20removal%20by%20said%20tribunal.
+
+.. index::
+   single: executive board; meetings
+   single: executive board; meetings, no proxy voting
+   single: executive board; meetings, majority vote required
 
 Section 4. :underline:`Meetings`.
 ---------------------------------------------------------------
@@ -76,6 +104,11 @@ majority of the members of the Board, but a minority of those present at any reg
 meeting, though less than a quorum, shall have the power to adjourn the meeting to a future time.
 The vote required on any question coming before the Executive Board shall be a majority of the
 quorum present. Proxy voting is not permissible at meetings of the Executive Board.
+
+.. _Party Rules:
+
+.. index::
+   single: party rules; adopting
 
 Section 5. :underline:`Party Rules`.
 ---------------------------------------------------------------

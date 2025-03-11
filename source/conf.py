@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Constitution of the Republican State Executive Committee of Florida'
+project = 'RPOF-STC'
 #copyright = '2025, State Executive Committee'
 author = 'State Executive Committee'
 

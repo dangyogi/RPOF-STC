@@ -1,3 +1,8 @@
+.. index::
+   single: organizational meeting; state committee
+   single: organizational meeting; rules of procedure, adoption
+   single: organizational meeting; chair
+
 ========================================================
 ARTICLE VIII.  ORGANIZATIONAL MEETING - STATE COMMITTEE
 ========================================================

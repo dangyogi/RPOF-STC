@@ -1,14 +1,22 @@
+.. index:: meetings
+
 ======================================================
 ARTICLE IX.  MEETINGS OF THE STATE COMMITTEE
 ======================================================
 
 .. role:: underline
 
+.. index::
+   single: meetings; annual
+
 Section 1. :underline:`Annual Meeting`.
 -------------------------------------------------------
 
 There shall be an annual meeting of the State Committee held at
 such time and at such place as the State Chairman may determine.
+
+.. index::
+   single: meetings; special, calling
 
 Section 2. :underline:`Special Meeting`.
 -------------------------------------------------------
@@ -21,12 +29,18 @@ each member of the State Committee to be held within thirty (30) days. Fifteen (
 shall be given to each member of the State Committee by the Secretary for special meetings of the
 State Committee.
 
+.. index::
+   pair: meetings; notice
+
 Section 3. :underline:`Notice`.
 -------------------------------------------------------
 
 Notice of the time and place of all annual or special meetings of the State
 Committee shall be mailed by the Secretary to each member at least twenty (20) days before the
 date thereof.
+
+.. index::
+   pair: vote; proxy
 
 Section 4. :underline:`Vote`.
 -------------------------------------------------------
@@ -38,6 +52,10 @@ each member shall be entitled to cast one vote in person or by proxy. A member m
 and vote a proxy for other members of the State Committee. A proxy shall be in writing, dated,
 and witnessed and shall specify the meeting for which the proxy is given. All proxies shall be filed
 with the Secretary and entered in the minutes of the meeting for which they are granted.
+
+.. index:
+   single: quorum
+   single: meeting; quorum
 
 Section 5. :underline:`Quorum`.
 -------------------------------------------------------

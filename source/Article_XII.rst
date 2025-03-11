@@ -1,3 +1,6 @@
+.. index::
+   single: committees; standing, creation
+
 ======================================================
 ARTICLE XII.  COMMITTEES
 ======================================================
